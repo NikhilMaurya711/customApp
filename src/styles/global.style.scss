@@ -1,0 +1,82 @@
+// .add-customer-modal {
+//   .modal-content {
+//     height: 650px !important;
+//   }
+// }
+
+// .edit-customer-modal {
+//   .modal-content {
+//     height: 600px !important;
+//   }
+// }
+
+// /* CustomButtons*/
+// .customAction-popover {
+//   margin-right: 10px;
+//   .action {
+//     padding-left: 20px !important;
+//   }
+//   .arrow {
+//     margin-left: -20px !important;
+//   }
+// }
+
+// .expandPointer {
+//   right: 0px;
+//   bottom: 0px;
+// }
+
+// .expandPointerOnTop {
+//   right: 0px;
+//   top: 0px;
+// }
+
+// .expandPointerOnTopWithPadding {
+//   right: 5px;
+//   top: 7px;
+// }
+
+// .pointerDiv {
+//   height: 32px;
+//   width: 32px;
+//   position: absolute;
+//   z-index: 1;
+//   background-color: #0088a8;
+//   > i {
+//     padding: 10px;
+//     font-size: 20px;
+//     font-weight: bold;
+//     color: white;
+//   }
+//   &:hover {
+//     background-color: #005c75;
+//     > i {
+//       color: white;
+//     }
+//   }
+// }
+
+// .cardBtnLink {
+//   float: right;
+//   font-size: 11px;
+//   font-weight: bold;
+//   color: #0088a9;
+//   margin-top: -15px;
+// }
+
+// .attribLabel {
+//   > label {
+//     word-break: break-word;
+//   }
+// }
+
+body{
+  font-family: "Open Sans"
+}
+.hr-line{
+  color: "#E7E7E7";
+  height: "0px"
+}
+p:hover, label:hover, button:hover {
+  background-color: yellow;
+}
